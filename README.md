@@ -64,7 +64,11 @@ We welcome contributions! Follow these steps to contribute:
 Feel free to open issues for bug reports or feature requests.
 
 ## **Screenshots**
-_(Add screenshots of your app in action)_
+
+![image](https://github.com/user-attachments/assets/67375249-f628-477e-a896-885862bcd166)
+![image](https://github.com/user-attachments/assets/a858bfcd-7508-467a-ac12-da12b6ecc531)
+![image](https://github.com/user-attachments/assets/1beb8307-4815-4543-addc-c45b909748eb)
+
 
 ## **License**
 This project is licensed under the MIT License.
